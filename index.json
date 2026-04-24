@@ -2,5 +2,32 @@
   "version": "1",
   "updated": "2026-04-13",
   "games": [
+    {
+      "id": "d1ea12633c90655716bf43fcbc392596",
+      "name": "潮汐图书馆",
+      "description": "一个关于雨夜、记忆与归航的长篇 NovaMark 示例",
+      "tags": ["剧情", "悬疑", "长篇"],
+      "cover": "",
+      "downloadUrl": "https://ghfast.top/https://raw.githubusercontent.com/Okysu/NovaMark/refs/heads/main/examples/demo.nvmp",
+      "author": "NovaMark Team",
+      "version": "1.3.0",
+      "coreVersion": "nova-core@0.2",
+      "packageSize": "38.75MB",
+      "md5": "f3bbf9ff0c63715780bb82cb71f687bf"
+    }
+    ,
+    {
+      "id": "99c63f34193f970ca38a4fe95044306d",
+      "name": "高三的牛肉炒饭",
+      "description": "一段关于高三暮色、一盒牛肉炒饭与未竟执念的互动小说。三条结局，由你的选择决定。",
+      "tags": ["剧情", "短篇", "青春"],
+      "cover": "",
+      "downloadUrl": "https://novamark.blob.core.windows.net/registry/demo/my-story.nvmp",
+      "author": "Okysu",
+      "version": "0.1",
+      "coreVersion": "nova-core@0.2",
+      "packageSize": "7.04KB",
+      "md5": "1c713e1af0126af2e3a8e7f7c8d1fa07"
+    }
   ]
 }
