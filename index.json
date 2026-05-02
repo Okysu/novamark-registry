@@ -8,14 +8,13 @@
       "description": "一个关于雨夜、记忆与归航的长篇 NovaMark 示例",
       "tags": ["剧情", "悬疑", "长篇"],
       "cover": "",
-      "downloadUrl": "https://ghfast.top/https://raw.githubusercontent.com/Okysu/NovaMark/refs/heads/main/examples/demo.nvmp",
+      "downloadUrl": "https://raw.gitcode.com/Okysu/novamark-package/blobs/9075d8bdb8201b265fa48342b44494c0faadab3c/demo.nvmp",
       "author": "NovaMark Team",
       "version": "1.3.0",
       "coreVersion": "nova-core@0.2",
       "packageSize": "38.75MB",
       "md5": "f3bbf9ff0c63715780bb82cb71f687bf"
-    }
-    ,
+    },
     {
       "id": "99c63f34193f970ca38a4fe95044306d",
       "name": "高三的牛肉炒饭",
@@ -28,6 +27,19 @@
       "coreVersion": "nova-core@0.2",
       "packageSize": "7.04KB",
       "md5": "1c713e1af0126af2e3a8e7f7c8d1fa07"
+    },
+    {
+      "id": "d45571ab9b5da04ac8a5fb602087830b",
+      "name": "深空打字机",
+      "description": "官方能力示例工程文件，你是否可以逃离这个循环？",
+      "tags": ["剧情", "悬疑", "长篇"],
+      "cover": "",
+      "downloadUrl": "https://raw.gitcode.com/Okysu/novamark-package/blobs/d816c747b12dc0b46623e81f159c538ef8ef6e68/terminal_0.nvmp",
+      "author": "NovaMark Team",
+      "version": "0.1",
+      "coreVersion": "nova-core@0.2",
+      "packageSize": "28.4 MB",
+      "md5": "54c37b2dcd1461ccfe26b0be4fb3fe61"
     }
   ]
 }
